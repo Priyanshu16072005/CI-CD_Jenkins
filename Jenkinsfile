@@ -10,7 +10,7 @@ pipeline {
 
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/USERNAME/student-devops-app.git'
+                git 'https://github.com/Priyanshu16072005/CI-CD_Jenkins'
             }
         }
 
